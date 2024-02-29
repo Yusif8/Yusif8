@@ -1,5 +1,4 @@
-[![MasterHead](https://pin.it/10q5dlozV)
-<h1 align="center">Hi 👋, I'm Yusif Sadıkhzada</h1>
+<h1 align="center">Hi 👋, I'm Yusif Sadıxzade </h1>
 <h3 align="center">İ am student in Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
